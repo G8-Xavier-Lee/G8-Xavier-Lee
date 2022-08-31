@@ -2,12 +2,15 @@ h1 {
     color: black;
     border: 1px dotted blue;
     font-weight: bolder;
+    margin: auto;
   }
 desc {
     border: 4px solid black;
     color: red;
     background-color: chartreuse;
+    margin: auto;
   }
 #itstime {
     width: 245px;
+    margin: auto;
   }
